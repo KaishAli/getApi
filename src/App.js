@@ -15,7 +15,6 @@ function App() {
 
     return fetch(apiUrl);
   }
-  console.log(post);
 
 
   return (
